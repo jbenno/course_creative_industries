@@ -9,6 +9,36 @@ Creativity has long been seen as a pinacle of actualizing our potential as human
 
 ‘Creative Industries’ is offered as an advanced course for undergraduate students as well as a required part for the 4+1 master in Creative Industries. Undergraduate and graduate students will follow the same weekly schedule but receive different assignments honoring their individual position within their academic progress.
 
+## Schedule
+#### Week 1 Introduction
+  Inventing an industry: The mapping of the Blair government. Basics of the creative economy: For-profit, non-profit, the creative product as commodity or vehicle for communication
+#### Week 2 Business models for creative ventures
+  Business model design, first introduction to how creative business works and how to start drafting a business plan using the Business Model Canvas
+#### Week 3 Business planning for creative industries
+  Understanding the financial planning: Inputs, market analysis and estimation, outputs, P&L, revenues, expenses, investments, etc.
+#### Week 4 Technological innovation and creativity
+  Startups, VC, understanding and guessing on future developments and demand; first look at financial business planning
+#### Week 5 The creative enterprise: Production, publishing and advertising
+  The production and distribution industry: Publishers, studios, networks and streaming, advertising and media agencies; case studies WPP, Bertelsmann, LVMH, Zaha Hadid Architects
+#### Week 6 Creativity
+  Psychology and philosophy of creativity: Critical discussion of the historic making and the underlying ideologies of the term 'creativity'; critiquing Euro-centrism, elitism, neo-bohemianism of the creative class
+#### Week 7 Platforms
+  Here comes everybody: Google and Youtube, Amazon, Spotify, social media, Apple, vimeo, soundcloud, bandcamp, ...
+#### Week 8 Creation and brand
+  Brand franchise, brand extensions, fan fiction. Case study Disney (Pixar, Lucas, Marvel)/Lego
+#### Week 9 Creative labor and intellectual property
+  Authorship, intellectual property, fair use, licencing, honoraria, royalties, just do it off-shoring, mechanical turks, AI
+#### Week 10 Culture industry entertainment, taste, distinction, kitsch
+  Critical theory of the culture industry: Reproduction, entertainment, The saleried masses, kitsch, cultural capital and distinction
+#### Week 11 Audience
+  Mass media, marketing, search and recommendation: Who will be listening? How to get the facts on people’s communication behaviour. Basics of media and communication planning.
+#### Week 12 Art market
+  Art as commodity, galleries, collectors, foundations, museums
+#### Week 13 Into the future
+  Strategic foresight and how to think like a futurist
+#### Week 14 Project
+  Final project presentations
+
 ## General rules and remarks
 ### Accessibility Statement 
 Wheaton College is committed to providing equitable access and supportive services for all students to fully access and thrive in the academic, residential and social aspects of student life at Wheaton College. Affirmatively, Wheaton provides appropriate accommodations for eligible students with documented disabilities to afford equal access to educational programs and services. Individuals with disabilities and other access concerns requiring accommodations or information on accessibility should reach out to Accessibility Services at the Filene Center, either via email at accessibility@wheatoncollege.edu or via phone at (508) 286-3794.
