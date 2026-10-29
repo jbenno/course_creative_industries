@@ -1,3 +1,5 @@
+<sup>[back to Teaching Home](https://github.com/jbenno/teaching)<sup>
+
 # Syllabus Creative Industries
 
 Wheaton College
@@ -241,7 +243,9 @@ Readings will explicitely be assinged week by week.
 - Weprin, Alex. ‘Disney’s Epic Deal Reignites Hollywood Love Affair With Video Games’. The Hollywood Reporter, 14 February 2024. https://www.hollywoodreporter.com/business/business-news/disneys-epic-video-games-investment-1235824308/.
 - What’s New and Next? | Paul Saffo, 2018. https://www.youtube.com/watch?v=KdKJ9W7mj70.
 - Why Futures Studies: An Interview with Jim Dator. Interview, 2012. https://actionforesight.net/why-futures-studies-an-interview-with-jim-dator/.
- 
+
+***
+<sup>***[Creative Industries](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching)</sup>
 
 
 
