@@ -11,6 +11,9 @@ Creativity has long been seen as a pinacle of actualizing our potential as human
 
 ‘Creative Industries’ is offered as an advanced course for undergraduate students as well as a required part for the 4+1 master in Creative Industries. Undergraduate and graduate students will follow the same weekly schedule but receive different assignments honoring their individual position within their academic progress.
 
+[Bibliography and readings](/files/Bibliography.md)
+
+
 ## Schedule
 #### Week 1 Introduction
   Inventing an industry: The mapping of the Blair government. Basics of the creative economy: For-profit, non-profit, the creative product as commodity or vehicle for communication
